@@ -8,6 +8,10 @@
   min-height: 100vh;
 }
 
+.button{
+  background-color: blue;
+}
+
 .second-constainer {
   background-color: #ffffff;
   width: 400px;
