@@ -76,7 +76,7 @@ class SimpleTodos extends Component {
               onChange={this.onInputChangetodoActivity}
             />
             <br />
-            <button onClick={this.onAddTodo} type="button">
+            <button className="button" onClick={this.onAddTodo} type="button">
               Add Task
             </button>
           </div>
